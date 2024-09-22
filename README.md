@@ -1,1 +1,1 @@
-add"https://ghp.ci/"for proxy
+add"https://ghp.ci/" for proxy
