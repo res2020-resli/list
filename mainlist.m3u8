@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 直播
-https://ghp.ci/https://raw.githubusercontent.com/res2020-resli/list/refs/heads/main/zb.m3u8
-#EXTINF:-1 剧集
-https://ghp.ci/https://raw.githubusercontent.com/res2020-resli/list/refs/heads/main/jj.m3u8
-#EXTINF:-1 电影
-https://ghp.ci/https://raw.githubusercontent.com/res2020-resli/list/refs/heads/main/dy.m3u8
