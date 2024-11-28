@@ -215,60 +215,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="newtv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="数字频道",金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",1
-https://vip.ffzy-online6.com/20230804/16125_f7c49f9d/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",2
-https://vip.ffzy-online6.com/20230804/16126_540f4ba8/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",3
-https://vip.ffzy-online6.com/20230804/16127_dc70233c/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",4
-https://vip.ffzy-online6.com/20230804/16128_d85b61ac/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",5
-https://vip.ffzy-online2.com/20230906/43666_11b56e7d/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",6
-https://vip.ffzy-online2.com/20230910/43866_f294f627/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",7
-https://vip.ffzy-online6.com/20230907/18092_5a2feca6/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",8
-https://vip.ffzy-online6.com/20230907/18091_31e68997/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",9
-https://vip.ffzy-online6.com/20230908/18208_17cfae57/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",10
-https://vip.ffzy-online6.com/20230909/18308_b16e0d07/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",11
-https://vip.ffzy-online6.com/20230909/18307_ce127bfd/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",12
-https://vip.ffzy-online6.com/20230910/18339_ed89fdfb/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",13
-https://vip.ffzy-online6.com/20230911/18383_ac37fcbe/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",14
-https://vip.ffzy-online6.com/20230912/18438_6c35fd11/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",15
-https://vip.ffzy-online6.com/20230912/18437_a8e34e75/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",16
-https://vip.ffzy-online6.com/20230913/18495_e69e7331/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",17
-https://vip.ffzy-online6.com/20230914/18563_c78cdd83/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",18
-https://vip.ffzy-online6.com/20230915/18612_f2295e2b/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",19
-https://vip.ffzy-online6.com/20230916/18671_0011be9a/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",20
-https://vip.ffzy-online6.com/20230917/18706_0f588f82/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",21
-https://vip.ffzy-online6.com/20230919/18787_9aeb296d/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",22
-https://vip.ffzy-online6.com/20230920/18847_2e800188/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",23
-https://vip.ffzy-online6.com/20230921/18890_7828edb3/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",24
-https://vip.ffzy-online6.com/20230922/18941_73e97c14/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",25
-https://vip.ffzy-online6.com/20230922/18950_335c6b53/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",26
-https://vip.ffzy-online6.com/20230922/18949_a132d478/index.m3u8
-#EXTINF:-1 ,group-title="异人之下",27
-https://vip.ffzy-online6.com/20230922/18948_b9d7658e/index.m3u8
 #EXTINF:-1 ,group-title="电影",我和我的父辈（沈腾）
 https://yzzy.play-cdn4.com/20220612/19640_a3358337/index.m3u8
 #EXTINF:-1 ,group-title="电影",游侠（李连杰）
@@ -752,3 +698,83 @@ https://yzzy.play-cdn12.com/20221213/10459_85a61b21/index.m3u8
 https://yzzy.play-cdn12.com/20221213/10462_01380b88/index.m3u8
 #EXTINF:-1 ,group-title="搞笑一家人",170
 https://yzzy.play-cdn12.com/20221213/10460_1f89bd99/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",01
+https://v.gsuus.com/play/lejDG7yb/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",02
+https://v.gsuus.com/play/lejDG74b/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",03
+https://v.gsuus.com/play/mepMOrya/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",04
+https://v.gsuus.com/play/9b6ZrLNb/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",05
+https://v.gsuus.com/play/mepMrEra/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",06
+https://v.gsuus.com/play/PdyYQRwd/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",07
+https://v.gsuus.com/play/mepyY2ma/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",08
+https://v.gsuus.com/play/PdyLPXgb/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",09
+https://v.gsuus.com/play/BeX86k8e/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",10
+https://v.gsuus.com/play/YaO375Ba/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",11
+https://v.gsuus.com/play/DbD39mna/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",12
+https://v.gsuus.com/play/lejpYYYb/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",13
+https://v.gsuus.com/play/QeZ7zXga/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",14
+https://v.gsuus.com/play/DdwJrm1b/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",15
+https://v.gsuus.com/play/penwYKpa/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",16
+https://v.gsuus.com/play/DbD3016a/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",17
+https://v.gsuus.com/play/Xe0G2QNd/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",18
+https://v.gsuus.com/play/penwzDla/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",19
+https://v.gsuus.com/play/Rb4MkXJd/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",20
+https://v.gsuus.com/play/BeX874Ve/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",21
+https://v.gsuus.com/play/YaO3E4Ea/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",22
+https://v.gsuus.com/play/1aK3AwJa/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",23
+https://v.gsuus.com/play/penwN2Da/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",24
+https://v.gsuus.com/play/penw7ZYa/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",25
+https://v.gsuus.com/play/BeX8q8ve/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",26
+https://v.gsuus.com/play/YaO3L3Ra/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",27
+https://v.gsuus.com/play/qaQ9gX9a/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",28
+https://v.gsuus.com/play/QeZ7rg5a/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",29
+https://v.gsuus.com/play/lejpJOzb/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",30
+https://v.gsuus.com/play/mepyVX1a/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",31
+https://v.gsuus.com/play/PdyLk1gb/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",32
+https://v.gsuus.com/play/mepyVOma/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",33
+https://v.gsuus.com/play/1aK3GgMa/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",34
+https://v.gsuus.com/play/qaQ9XY0a/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",35
+https://v.gsuus.com/play/Rb4Mw2xd/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",36
+https://v.gsuus.com/play/BeX8wXge/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",37
+https://v.gsuus.com/play/PdyL5Anb/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",38
+https://v.gsuus.com/play/mepyKoVa/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",39
+https://v.gsuus.com/play/YaO3kXra/index.m3u8
+#EXTINF:-1 ,group-title="小巷人家",40
+https://v.gsuus.com/play/RdG3xXJd/index.m3u8
