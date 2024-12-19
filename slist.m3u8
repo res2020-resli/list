@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,group-title="电影",高压监狱
 https://hn.bfvvs.com/play/qaQLQKGe/index.m3u8
+#EXTINF:-1 ,group-title="奇妙风流韵事",1
+https://sjzym3u8.com/20241128/hq0UAh2d/2000kb/hls/index.m3u8
+#EXTINF:-1 ,group-title="奇妙风流韵事",2
+https://sjzym3u8.com/20241128/9bRxRgTs/2000kb/hls/index.m3u8
+#EXTINF:-1 ,group-title="奇妙风流韵事",3
+https://sjzym3u8.com/20241128/csl11Dl8/2000kb/hls/index.m3u8
+#EXTINF:-1 ,group-title="奇妙风流韵事",4
+https://sjzym3u8.com/20241128/TktUF9t3/2000kb/hls/index.m3u8
+#EXTINF:-1 ,group-title="奇妙风流韵事",5
+https://sjzym3u8.com/20241128/7nBSZmFo/2000kb/hls/index.m3u8
+#EXTINF:-1 ,group-title="奇妙风流韵事",6
+https://sjzym3u8.com/20241128/lTZlG6Cw/2000kb/hls/index.m3u8
 #EXTINF:-1 ,group-title="绝世网红",01
 https://vip.lz-cdn9.com/20230630/17626_b5280c1d/2000k/hls/mixed.m3u8
 #EXTINF:-1 ,group-title="绝世网红",02
